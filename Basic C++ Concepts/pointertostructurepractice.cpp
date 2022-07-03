@@ -13,7 +13,7 @@ int main(){
 
     //Declaring a pointer to structure
     Rectangle *p = &r;
-    //Accesing struct values using pointers
+    //Accesing Rectangle strucure data members using pointers
     cout<<p->length<<endl;
     cout<<p->breadth<<endl;
 
